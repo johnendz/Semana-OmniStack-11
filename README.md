@@ -6,16 +6,16 @@
   🚀 Be The Hero by Rocketseat
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/johnendz/Semana-OmniStack-11?color=brightgreen">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/johnendz/Semana-OmniStack-11?color=red">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnendz/Semana-OmniStack-11?color=brightgreen">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnendz/Semana-OmniStack-11?color=red">
   
   <a href="https://github.com/johnendz/Semana-OmniStack-11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnendz/Semana-OmniStack-11?color=brightgreen">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnendz/Semana-OmniStack-11?color=red">
   </a>
 
   <a href="https://github.com/johnendz/Semana-OmniStack-11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/johnendz/Semana-OmniStack-11?color=brightgreen">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/johnendz/Semana-OmniStack-11?color=red">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
